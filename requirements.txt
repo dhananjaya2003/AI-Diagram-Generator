@@ -1,0 +1,4 @@
+pydantic
+pydantic-ai
+requests
+nest_asyncio
